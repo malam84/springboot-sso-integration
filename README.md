@@ -32,3 +32,5 @@ New password: *password*<br>
 
 <br><br>
 * Create client<br><br>
+* ![Screenshot from 2022-04-04 13-31-23](https://user-images.githubusercontent.com/42507151/161480040-6d9ee65c-770b-4818-b580-fafc96c0e5b3.png)
+![Screenshot from 2022-04-04 13-31-37](https://user-images.githubusercontent.com/42507151/161480043-3c02dea9-8889-47e6-98d0-b7cd04741864.png)
