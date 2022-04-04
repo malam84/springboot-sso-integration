@@ -30,3 +30,5 @@ New password: *password*<br>
  Select *user* on Available Roles and move to *Assign Roles*<br><br>
 ![10](https://user-images.githubusercontent.com/42507151/161478625-46131d88-3db1-46f4-b42d-38f1e5fc8ea4.png)
 
+<br><br>
+* Create client<br><br>
